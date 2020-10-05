@@ -1,2 +1,2 @@
-# Phase_Retrieval-PyTorch
+# Phase-Retrieval-PyTorch
 
