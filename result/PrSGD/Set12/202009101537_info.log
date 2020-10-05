@@ -1,0 +1,1 @@
+2020-09-10 15:37:56,936 - prDeep_demo.py[line:58] - INFO: Algorithm parameters are Namespace(Prior_Method='sgd_dae', denoiser='realsn_DnCNN_dae', device=device(type='cuda', index=0), gpu=0, lambd=0.6875, max_iters=300, noise_type=False, prox_iters=1, random_seed=0, sampling_rate=1, save_dir='./result/PrSGD/', sigma=25, snr=15, test_data='Set12', tol=1e-07, verbose=True)

@@ -1,0 +1,14 @@
+,name,psnr,ssim,test_time
+0,Butterfly,34.14,0.87,25.07
+1,Ecoli,27.47,0.51,28.65
+2,PillarsofCreation,33.69,0.88,25.9
+3,Pollen,28.02,0.86,24.82
+4,TadpoleGalaxy,36.01,0.85,24.75
+5,Yeast,37.81,0.93,25.36
+6,barbara,28.11,0.84,24.98
+7,boat,28.39,0.76,24.65
+8,cameraman,28.24,0.83,7.57
+9,couple,28.59,0.79,24.97
+10,peppers,30.93,0.82,25.09
+11,streamandbridge,25.16,0.71,24.91
+12,Average,30.54,0.81,23.89

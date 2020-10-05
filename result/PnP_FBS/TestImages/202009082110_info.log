@@ -1,0 +1,1 @@
+2020-09-08 21:10:13,046 - pnp_test.py[line:74] - INFO: Algorithm parameters are Namespace(PnP_Method='PnP_FBS', beta=0.5, denoiser='DnCNN', device=device(type='cuda', index=0), gpu=0, max_iters=60, noise_type=False, random_seed=0, sampling_rate=1, save_dir='./result/PnP_FBS/', sigma=10, snr=15, test_data='TestImages', verbose=True)

@@ -1,0 +1,1 @@
+2020-09-08 15:37:37,521 - prDeep_demo.py[line:56] - INFO: Algorithm parameters are Namespace(denoiser='realsn_DnCNN', gpu=0, lambd=10.0, max_iters=200, noise_type=False, prox_iters=1, random_seed=0, sampling_rate=1, save_dir='./result/PrDeep/', sigma=10, snr=15, test_data='Set12', tol=1e-07, verbose=True)

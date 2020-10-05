@@ -1,0 +1,1 @@
+2020-09-13 20:09:48,977 - prDeep_demo.py[line:58] - INFO: Algorithm parameters are Namespace(Prior_Method='prDAE', denoiser='realsn_DnCNN_dae', device=device(type='cuda', index=0), gpu=0, lambd=27.5, max_iters=100, noise_type=False, prox_iters=1, random_seed=0, sampling_rate=1, save_dir='./result/PrDAE/', sigma=25, snr=15, test_data='TestImages', tol=1e-07, verbose=True)

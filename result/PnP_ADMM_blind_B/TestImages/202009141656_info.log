@@ -1,0 +1,1 @@
+2020-09-14 16:56:31,779 - pnp_test.py[line:74] - INFO: Algorithm parameters are Namespace(PnP_Method='PnP_ADMM', beta=0.5, denoiser='DnCNN', device=device(type='cuda', index=0), gpu=0, max_iters=30, noise_type=True, random_seed=0, sampling_rate=1, save_dir='./result/PnP_ADMM_blind_B/', sigma=-1, snr=15, test_data='TestImages', verbose=True)

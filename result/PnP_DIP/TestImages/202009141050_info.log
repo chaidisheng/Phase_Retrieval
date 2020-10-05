@@ -1,0 +1,1 @@
+2020-09-14 10:50:34,255 - dip_test.py[line:54] - INFO: Algorithm parameters are Namespace(device=device(type='cuda', index=0), gpu=0, max_iters=100, random_seed=0, sampling_rate=1, save_dir='./result/PnP_DIP/', sigma=3, snr=15, test_data='TestImages', verbose=True)

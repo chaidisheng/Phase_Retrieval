@@ -1,0 +1,1 @@
+2020-09-24 17:57:46,346 - pnp_test.py[line:74] - INFO: Algorithm parameters are Namespace(PnP_Method='PnP_CE', beta=0.5, denoiser='DnCNN', device=device(type='cuda', index=0), gpu=0, max_iters=60, noise_type=True, random_seed=0, sampling_rate=1, save_dir='./result/PnP_CE_blind_25/', sigma=[0.058823529411764705, 0.09803921568627451], snr=25, test_data='TestImages', verbose=True)
